@@ -23,8 +23,5 @@ Przygotowanie i uruchomienie symulowanej kampanii phishingowej z wykorzystaniem 
 ## 📸 Screenshots
 Zobacz folder `screenshots/`.
 
-## 📄 Pełny opis projektu
-[Opis projektu (PDF)](docs/Opis_projektu.pdf)
-
 ## ⚠️ Zastrzeżenie
 Projekt ma charakter edukacyjny. Nie użyto prawdziwych danych ani maili (z wyjątkiem mojego)
